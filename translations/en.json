@@ -1,0 +1,22 @@
+{
+    "appTitle": "FinCalc",
+    "appDescription": "The ultimate tool to plan your investments.",
+    "formLabels": {
+      "initialInvestment": "Initial Investment:",
+      "monthlyContribution": "Monthly Contribution:",
+      "investmentTerm": "Term (years):",
+      "interestRate": "Interest Rate (%):",
+      "frequency": "Compounding Frequency:",
+      "calculateButton": "Calculate"
+    },
+    "frequencyOptions": {
+      "12": "Monthly",
+      "4": "Quarterly",
+      "2": "Semiannual",
+      "1": "Annual"
+    },
+    "resultsHeader": "Calculation Results:",
+    "chartLabel": "Capital Growth",
+    "footer": "&copy; 2025 FinCalc. All rights reserved."
+  }
+  

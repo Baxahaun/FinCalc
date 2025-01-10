@@ -1,0 +1,11 @@
+Copyright © 2025 FinCalc
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are the exclusive property of Xavier Crespo, representing the Transeconómicos brand. Unauthorized copying, distribution, modification, or use of the Software, in whole or in part, is strictly prohibited unless explicit written permission is granted by the owner(s).
+
+Permission is NOT granted to distribute, copy, or modify the Software for commercial or non-commercial purposes unless otherwise stated in a written agreement.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For inquiries or licensing requests, contact: info@fincalc.com

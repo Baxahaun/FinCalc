@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FinCalc</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script defer src="app.js"></script>
+</head>
+<body>
+    <header>
+        <h1>FinCalc</h1>
+        <p>La herramienta definitiva para planificar tus inversiones.</p>
+    </header>
+    <main>
+        <form id="investment-form">
+            <label for="initial-investment">Inversión Inicial:</label>
+            <input type="number" id="initial-investment" required>
+
+            <label for="monthly-contribution">Aportación Mensual:</label>
+            <input type="number" id="monthly-contribution" required>
+
+            <label for="investment-term">Plazo (años):</label>
+            <input type="number" id="investment-term" required>
+
+            <label for="interest-rate">Tasa de Interés (%):</label>
+            <input type="number" id="interest-rate" required>
+
+            <label for="frequency">Frecuencia de Capitalización:</label>
+            <select id="frequency">
+                <option value="12">Mensual</option>
+                <option value="4">Trimestral</option>
+                <option value="2">Semestral</option>
+                <option value="1">Anual</option>
+            </select>
+
+            <button type="submit">Calcular</button>
+        </form>
+        <div id="results"></div>
+        <canvas id="growthChart"></canvas>
+    </main>
+    <footer>
+        <p>&copy; 2025 FinCalc. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>

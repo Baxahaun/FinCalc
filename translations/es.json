@@ -1,0 +1,21 @@
+{
+    "appTitle": "FinCalc",
+    "appDescription": "La herramienta definitiva para planificar tus inversiones.",
+    "formLabels": {
+      "initialInvestment": "Inversión Inicial:",
+      "monthlyContribution": "Aportación Mensual:",
+      "investmentTerm": "Plazo (años):",
+      "interestRate": "Tasa de Interés (%):",
+      "frequency": "Frecuencia de Capitalización:",
+      "calculateButton": "Calcular"
+    },
+    "frequencyOptions": {
+      "12": "Mensual",
+      "4": "Trimestral",
+      "2": "Semestral",
+      "1": "Anual"
+    },
+    "resultsHeader": "Resultados del Cálculo:",
+    "chartLabel": "Crecimiento del Capital",
+    "footer": "&copy; 2025 FinCalc. Todos los derechos reservados."
+  }
